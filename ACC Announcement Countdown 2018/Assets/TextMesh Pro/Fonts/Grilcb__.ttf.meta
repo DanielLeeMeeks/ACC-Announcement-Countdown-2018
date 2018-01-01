@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0397e110de2d42048979a9dda577caf1
+timeCreated: 1511560192
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GrilledCheese BTN
+  fontNames:
+  - GrilledCheese BTN
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

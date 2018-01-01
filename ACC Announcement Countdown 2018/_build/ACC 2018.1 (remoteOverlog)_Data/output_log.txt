@@ -1,0 +1,1306 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5700 Series (ID=0x68b8)
+    Vendor:   ATI
+    VRAM:     1010 MB
+    Driver:   15.200.1062.1003
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\_ACC\2017_ANN\ACC Announcement Countdown 2018\_build\ACC 2018.1 (remoteOverlog)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\_ACC\2017_ANN\ACC Announcement Countdown 2018\_build\ACC 2018.1 (remoteOverlog)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\_ACC\2017_ANN\ACC Announcement Countdown 2018\_build\ACC 2018.1 (remoteOverlog)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\_ACC\2017_ANN\ACC Announcement Countdown 2018\_build\ACC 2018.1 (remoteOverlog)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\_ACC\2017_ANN\ACC Announcement Countdown 2018\_build\ACC 2018.1 (remoteOverlog)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\_ACC\2017_ANN\ACC Announcement Countdown 2018\_build\ACC 2018.1 (remoteOverlog)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\_ACC\2017_ANN\ACC Announcement Countdown 2018\_build\ACC 2018.1 (remoteOverlog)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\_ACC\2017_ANN\ACC Announcement Countdown 2018\_build\ACC 2018.1 (remoteOverlog)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: H:\_ACC\2017_ANN\ACC Announcement Countdown 2018\_build\ACC 2018.1 (remoteOverlog)_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading H:\_ACC\2017_ANN\ACC Announcement Countdown 2018\_build\ACC 2018.1 (remoteOverlog)_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: H:\_ACC\2017_ANN\ACC Announcement Countdown 2018\_build\ACC 2018.1 (remoteOverlog)_Data\Managed\TextMeshPro-1.0.55.2017.1.0b12.dll (this message is harmless)
+Loading H:\_ACC\2017_ANN\ACC Announcement Countdown 2018\_build\ACC 2018.1 (remoteOverlog)_Data\Managed\TextMeshPro-1.0.55.2017.1.0b12.dll into Unity Child Domain
+Platform assembly: H:\_ACC\2017_ANN\ACC Announcement Countdown 2018\_build\ACC 2018.1 (remoteOverlog)_Data\Managed\System.dll (this message is harmless)
+Platform assembly: H:\_ACC\2017_ANN\ACC Announcement Countdown 2018\_build\ACC 2018.1 (remoteOverlog)_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.041 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.853792 ms
+12/2/2017 6:00:00 PM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:21:43
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MrEEHAKJh68z
+Prayer & Praise
+Early service
+2017-11-26 08:30
+
+6OvqNNawAiOz
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-11-26 09:45
+
+C9j6Di2jaZUC
+Sunday Morning Services
+Sunday Church Services
+2017-11-26 11:00
+
+8TCeNDNddDYG
+Awana
+Children Ages 4 to 11 Years Old
+2017-11-26 17:30
+
+1Vj7OsH3QtAc
+Bible Study
+New Testament bible study
+2017-11-26 18:00
+
+5KUdQR1uOlMV
+Christian Women\'s Fellowship
+[This item is blank.]
+2017-11-28 19:00
+
+Pnz7yUvKTQO0
+Prayer Breakfast
+Fellowship hall
+2017-11-29 06:00
+
+597UzC3agivP
+Bible Study
+Bible Study
+2017-11-29 19:00
+
+m7r0QMWdMC20
+Toy and Food Drive Pickup
+Toy and Food Drive Pickup
+2017-12-02 09:00
+foodDrive.ogv
+VTSgDp3W2Bag
+Prayer & Praise
+Early service
+2017-12-03 08:30
+
+P1LeyOENqbXC
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-03 09:45
+
+CdwPU8CRlZ2I
+Sunday Morning Services
+1st Sunday in Advent: Hope
+2017-12-03 11:00
+
+jTfSQ2VfafUz
+Christmas Play
+
+2017-12-03 18:00
+
+BJw2enjn4Wd8
+God's Sisterhood
+[This item is blank]
+2017-12-05 09:30
+
+gWbtuB0tjEST
+Prayer Breakfast
+Fellowship hall
+2017-12-06 07:00
+
+RefpX0i8JiOA
+Bible Study
+Bible Study
+2017-12-06 19:00
+
+khJdG5aR3J5l
+Prayer & Praise
+Early service
+2017-12-10 08:30
+
+m5Eu933m1SPt
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-10 09:45
+
+a2PNthKRz8Im
+Sunday Morning Services
+
+2017-12-10 11:00
+
+kmIl0EqPlSUm
+Spaghetti with Santa
+
+2017-12-10 18:00
+
+QSDhHja9Alcw
+Prayer Breakfast
+Fellowship hall
+2017-12-13 05:00
+
+iDz96dlQ4k1H
+Bible Study
+Bible Study
+2017-12-13 19:00
+
+pdJrJNeIhkes
+Prayer & Praise
+Early service
+2017-12-17 08:30
+
+lFjbApB5mukL
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-17 09:45
+
+xf80HGBiliWM
+Sunday Morning Services
+3rd Sunday in Advent: Joy
+2017-12-17 11:00
+
+OzfNBCk7pAj6
+Bible Study
+New Testament bible study
+2017-12-17 18:00
+
+WqaZcC31R560
+CWF Christmas Party
+Christian Women\'s Fellowship\'s Christmas Party @ Parker\'s
+2017-12-18 18:30
+
+wry5inE4dfmC
+Prayer Breakfast
+Fellowship hall
+2017-12-20 06:00
+
+1Zaym14Y6LJZ
+Christmas Caroling
+
+2017-12-20 19:00
+
+7nJakkGfIcSx
+Prayer & Praise
+Early service
+2017-12-24 08:30
+
+Efvt2x9Ui86w
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-24 09:45
+
+IR3eVrQbDETK
+Sunday Morning Services
+4th Sunday in Advent: Love
+2017-12-24 10:30
+
+zcJhZfJD46xJ
+Christmas Eve Service
+Candlelight Christmas service.
+2017-12-24 18:00
+
+xYooc7Z7DkBr
+Christmas
+Christmas 2017
+2017-12-25 00:00
+
+chpbs60roBCw
+Prayer Breakfast
+Fellowship hall
+2017-12-27 06:00
+
+hkiE2glr8C6i
+Bible Study
+Bible Study
+2017-12-27 19:00
+
+NtSaVnoSUI8v
+Prayer & Praise
+Early service
+2017-12-31 08:30
+
+mDG44SaoqL5v
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-31 09:45
+
+O5n8bLXsH0NB
+Sunday Morning Services
+Sunday Church Services
+2017-12-31 11:00
+
+3CwkPLFpw9NC
+Bible Study
+New Testament bible study
+2017-12-31 18:00
+
+ASaN6o5A4ppw
+Singing in the New Year
+Mike and Jamel Mills
+2017-12-31 18:00
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:21:44
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.762464 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 999.
+Total: 9.003091 ms (FindLiveObjects: 0.068388 ms CreateObjectMapping: 0.053028 ms MarkObjects: 8.768304 ms  DeleteObjects: 0.112639 ms)
+
+12/2/2017 6:00:00 PM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MrEEHAKJh68z
+Prayer & Praise
+Early service
+2017-11-26 08:30
+
+6OvqNNawAiOz
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-11-26 09:45
+
+C9j6Di2jaZUC
+Sunday Morning Services
+Sunday Church Services
+2017-11-26 11:00
+
+8TCeNDNddDYG
+Awana
+Children Ages 4 to 11 Years Old
+2017-11-26 17:30
+
+1Vj7OsH3QtAc
+Bible Study
+New Testament bible study
+2017-11-26 18:00
+
+5KUdQR1uOlMV
+Christian Women\'s Fellowship
+[This item is blank.]
+2017-11-28 19:00
+
+Pnz7yUvKTQO0
+Prayer Breakfast
+Fellowship hall
+2017-11-29 06:00
+
+597UzC3agivP
+Bible Study
+Bible Study
+2017-11-29 19:00
+
+m7r0QMWdMC20
+Toy and Food Drive Pickup
+Toy and Food Drive Pickup
+2017-12-02 09:00
+foodDrive.ogv
+VTSgDp3W2Bag
+Prayer & Praise
+Early service
+2017-12-03 08:30
+
+P1LeyOENqbXC
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-03 09:45
+
+CdwPU8CRlZ2I
+Sunday Morning Services
+1st Sunday in Advent: Hope
+2017-12-03 11:00
+
+jTfSQ2VfafUz
+Christmas Play
+
+2017-12-03 18:00
+
+BJw2enjn4Wd8
+God's Sisterhood
+[This item is blank]
+2017-12-05 09:30
+
+gWbtuB0tjEST
+Prayer Breakfast
+Fellowship hall
+2017-12-06 07:00
+
+RefpX0i8JiOA
+Bible Study
+Bible Study
+2017-12-06 19:00
+
+khJdG5aR3J5l
+Prayer & Praise
+Early service
+2017-12-10 08:30
+
+m5Eu933m1SPt
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-10 09:45
+
+a2PNthKRz8Im
+Sunday Morning Services
+
+2017-12-10 11:00
+
+kmIl0EqPlSUm
+Spaghetti with Santa
+
+2017-12-10 18:00
+
+QSDhHja9Alcw
+Prayer Breakfast
+Fellowship hall
+2017-12-13 05:00
+
+iDz96dlQ4k1H
+Bible Study
+Bible Study
+2017-12-13 19:00
+
+pdJrJNeIhkes
+Prayer & Praise
+Early service
+2017-12-17 08:30
+
+lFjbApB5mukL
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-17 09:45
+
+xf80HGBiliWM
+Sunday Morning Services
+3rd Sunday in Advent: Joy
+2017-12-17 11:00
+
+OzfNBCk7pAj6
+Bible Study
+New Testament bible study
+2017-12-17 18:00
+
+WqaZcC31R560
+CWF Christmas Party
+Christian Women\'s Fellowship\'s Christmas Party @ Parker\'s
+2017-12-18 18:30
+
+wry5inE4dfmC
+Prayer Breakfast
+Fellowship hall
+2017-12-20 06:00
+
+1Zaym14Y6LJZ
+Christmas Caroling
+
+2017-12-20 19:00
+
+7nJakkGfIcSx
+Prayer & Praise
+Early service
+2017-12-24 08:30
+
+Efvt2x9Ui86w
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-24 09:45
+
+IR3eVrQbDETK
+Sunday Morning Services
+4th Sunday in Advent: Love
+2017-12-24 10:30
+
+zcJhZfJD46xJ
+Christmas Eve Service
+Candlelight Christmas service.
+2017-12-24 18:00
+
+xYooc7Z7DkBr
+Christmas
+Christmas 2017
+2017-12-25 00:00
+
+chpbs60roBCw
+Prayer Breakfast
+Fellowship hall
+2017-12-27 06:00
+
+hkiE2glr8C6i
+Bible Study
+Bible Study
+2017-12-27 19:00
+
+NtSaVnoSUI8v
+Prayer & Praise
+Early service
+2017-12-31 08:30
+
+mDG44SaoqL5v
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-31 09:45
+
+O5n8bLXsH0NB
+Sunday Morning Services
+Sunday Church Services
+2017-12-31 11:00
+
+3CwkPLFpw9NC
+Bible Study
+New Testament bible study
+2017-12-31 18:00
+
+ASaN6o5A4ppw
+Singing in the New Year
+Mike and Jamel Mills
+2017-12-31 18:00
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:21:48
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.531235 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 999.
+Total: 9.006383 ms (FindLiveObjects: 0.069485 ms CreateObjectMapping: 0.055588 ms MarkObjects: 8.862658 ms  DeleteObjects: 0.018285 ms)
+
+12/2/2017 6:00:00 PM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MrEEHAKJh68z
+Prayer & Praise
+Early service
+2017-11-26 08:30
+
+6OvqNNawAiOz
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-11-26 09:45
+
+C9j6Di2jaZUC
+Sunday Morning Services
+Sunday Church Services
+2017-11-26 11:00
+
+8TCeNDNddDYG
+Awana
+Children Ages 4 to 11 Years Old
+2017-11-26 17:30
+
+1Vj7OsH3QtAc
+Bible Study
+New Testament bible study
+2017-11-26 18:00
+
+5KUdQR1uOlMV
+Christian Women\'s Fellowship
+[This item is blank.]
+2017-11-28 19:00
+
+Pnz7yUvKTQO0
+Prayer Breakfast
+Fellowship hall
+2017-11-29 06:00
+
+597UzC3agivP
+Bible Study
+Bible Study
+2017-11-29 19:00
+
+m7r0QMWdMC20
+Toy and Food Drive Pickup
+Toy and Food Drive Pickup
+2017-12-02 09:00
+foodDrive.ogv
+VTSgDp3W2Bag
+Prayer & Praise
+Early service
+2017-12-03 08:30
+
+P1LeyOENqbXC
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-03 09:45
+
+CdwPU8CRlZ2I
+Sunday Morning Services
+1st Sunday in Advent: Hope
+2017-12-03 11:00
+
+jTfSQ2VfafUz
+Christmas Play
+
+2017-12-03 18:00
+
+BJw2enjn4Wd8
+God's Sisterhood
+[This item is blank]
+2017-12-05 09:30
+
+gWbtuB0tjEST
+Prayer Breakfast
+Fellowship hall
+2017-12-06 07:00
+
+RefpX0i8JiOA
+Bible Study
+Bible Study
+2017-12-06 19:00
+
+khJdG5aR3J5l
+Prayer & Praise
+Early service
+2017-12-10 08:30
+
+m5Eu933m1SPt
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-10 09:45
+
+a2PNthKRz8Im
+Sunday Morning Services
+
+2017-12-10 11:00
+
+kmIl0EqPlSUm
+Spaghetti with Santa
+
+2017-12-10 18:00
+
+QSDhHja9Alcw
+Prayer Breakfast
+Fellowship hall
+2017-12-13 05:00
+
+iDz96dlQ4k1H
+Bible Study
+Bible Study
+2017-12-13 19:00
+
+pdJrJNeIhkes
+Prayer & Praise
+Early service
+2017-12-17 08:30
+
+lFjbApB5mukL
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-17 09:45
+
+xf80HGBiliWM
+Sunday Morning Services
+3rd Sunday in Advent: Joy
+2017-12-17 11:00
+
+OzfNBCk7pAj6
+Bible Study
+New Testament bible study
+2017-12-17 18:00
+
+WqaZcC31R560
+CWF Christmas Party
+Christian Women\'s Fellowship\'s Christmas Party @ Parker\'s
+2017-12-18 18:30
+
+wry5inE4dfmC
+Prayer Breakfast
+Fellowship hall
+2017-12-20 06:00
+
+1Zaym14Y6LJZ
+Christmas Caroling
+
+2017-12-20 19:00
+
+7nJakkGfIcSx
+Prayer & Praise
+Early service
+2017-12-24 08:30
+
+Efvt2x9Ui86w
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-24 09:45
+
+IR3eVrQbDETK
+Sunday Morning Services
+4th Sunday in Advent: Love
+2017-12-24 10:30
+
+zcJhZfJD46xJ
+Christmas Eve Service
+Candlelight Christmas service.
+2017-12-24 18:00
+
+xYooc7Z7DkBr
+Christmas
+Christmas 2017
+2017-12-25 00:00
+
+chpbs60roBCw
+Prayer Breakfast
+Fellowship hall
+2017-12-27 06:00
+
+hkiE2glr8C6i
+Bible Study
+Bible Study
+2017-12-27 19:00
+
+NtSaVnoSUI8v
+Prayer & Praise
+Early service
+2017-12-31 08:30
+
+mDG44SaoqL5v
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-31 09:45
+
+O5n8bLXsH0NB
+Sunday Morning Services
+Sunday Church Services
+2017-12-31 11:00
+
+3CwkPLFpw9NC
+Bible Study
+New Testament bible study
+2017-12-31 18:00
+
+ASaN6o5A4ppw
+Singing in the New Year
+Mike and Jamel Mills
+2017-12-31 18:00
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:21:54
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:22:00
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:22:06
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:22:11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:22:16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:22:21
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:22:26
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:22:32
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:22:37
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:22:42
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:22:47
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:22:53
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:22:58
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:23:03
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:23:08
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:23:14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:23:19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:23:24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:23:29
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:23:35
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:23:40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:23:45
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:23:50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:23:56
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:24:01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:24:06
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:24:11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ping: Error performing ICMP transmission. Possibly because of a timeout
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:24:17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:24:22
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:24:27
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:24:32
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:24:38
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:24:43
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:24:48
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:24:53
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:24:59
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:25:04
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:25:09
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:25:14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:25:20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:25:25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:25:30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:25:35
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:25:41
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:25:46
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:25:51
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:25:56
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:26:01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:26:07
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:26:12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:26:17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:26:22
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:26:28
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:26:33
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:26:38
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:26:44
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:26:49
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:26:54
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:26:59
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:27:05
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:27:10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:27:15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:27:20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:27:25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:27:31
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:27:36
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:27:41
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:27:46
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:27:52
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:27:57
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:28:02
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:28:07
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:28:13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:28:18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:28:23
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:28:28
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:28:34
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:28:39
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:28:44
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:28:49
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:28:55
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:29:00
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:29:05
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:29:10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:29:15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:29:21
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:29:26
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.853792 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 812.
+Total: 7.497456 ms (FindLiveObjects: 0.059976 ms CreateObjectMapping: 0.061805 ms MarkObjects: 7.325937 ms  DeleteObjects: 0.049005 ms)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:29:31
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:29:37
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:29:42
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:29:48
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MrEEHAKJh68z
+Prayer & Praise
+Early service
+2017-11-26 08:30
+
+6OvqNNawAiOz
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-11-26 09:45
+
+C9j6Di2jaZUC
+Sunday Morning Services
+Sunday Church Services
+2017-11-26 11:00
+
+8TCeNDNddDYG
+Awana
+Children Ages 4 to 11 Years Old
+2017-11-26 17:30
+
+1Vj7OsH3QtAc
+Bible Study
+New Testament bible study
+2017-11-26 18:00
+
+5KUdQR1uOlMV
+Christian Women\'s Fellowship
+[This item is blank.]
+2017-11-28 19:00
+
+Pnz7yUvKTQO0
+Prayer Breakfast
+Fellowship hall
+2017-11-29 06:00
+
+597UzC3agivP
+Bible Study
+Bible Study
+2017-11-29 19:00
+
+m7r0QMWdMC20
+Toy and Food Drive Pickup
+Toy and Food Drive Pickup
+2017-12-02 09:00
+foodDrive.ogv
+VTSgDp3W2Bag
+Prayer & Praise
+Early service
+2017-12-03 08:30
+
+P1LeyOENqbXC
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-03 09:45
+
+CdwPU8CRlZ2I
+Sunday Morning Services
+1st Sunday in Advent: Hope
+2017-12-03 11:00
+
+jTfSQ2VfafUz
+Christmas Play
+
+2017-12-03 18:00
+
+BJw2enjn4Wd8
+God's Sisterhood
+[This item is blank]
+2017-12-05 09:30
+
+gWbtuB0tjEST
+Prayer Breakfast
+Fellowship hall
+2017-12-06 07:00
+
+RefpX0i8JiOA
+Bible Study
+Bible Study
+2017-12-06 19:00
+
+khJdG5aR3J5l
+Prayer & Praise
+Early service
+2017-12-10 08:30
+
+m5Eu933m1SPt
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-10 09:45
+
+a2PNthKRz8Im
+Sunday Morning Services
+
+2017-12-10 11:00
+
+kmIl0EqPlSUm
+Spaghetti with Santa
+
+2017-12-10 18:00
+
+QSDhHja9Alcw
+Prayer Breakfast
+Fellowship hall
+2017-12-13 05:00
+
+iDz96dlQ4k1H
+Bible Study
+Bible Study
+2017-12-13 19:00
+
+pdJrJNeIhkes
+Prayer & Praise
+Early service
+2017-12-17 08:30
+
+lFjbApB5mukL
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-17 09:45
+
+xf80HGBiliWM
+Sunday Morning Services
+3rd Sunday in Advent: Joy
+2017-12-17 11:00
+
+OzfNBCk7pAj6
+Bible Study
+New Testament bible study
+2017-12-17 18:00
+
+WqaZcC31R560
+CWF Christmas Party
+Christian Women\'s Fellowship\'s Christmas Party @ Parker\'s
+2017-12-18 18:30
+
+wry5inE4dfmC
+Prayer Breakfast
+Fellowship hall
+2017-12-20 06:00
+
+1Zaym14Y6LJZ
+Christmas Caroling
+
+2017-12-20 19:00
+
+7nJakkGfIcSx
+Prayer & Praise
+Early service
+2017-12-24 08:30
+
+Efvt2x9Ui86w
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-24 09:45
+
+IR3eVrQbDETK
+Sunday Morning Services
+4th Sunday in Advent: Love
+2017-12-24 10:30
+
+zcJhZfJD46xJ
+Christmas Eve Service
+Candlelight Christmas service.
+2017-12-24 18:00
+
+xYooc7Z7DkBr
+Christmas
+Christmas 2017
+2017-12-25 00:00
+
+chpbs60roBCw
+Prayer Breakfast
+Fellowship hall
+2017-12-27 06:00
+
+hkiE2glr8C6i
+Bible Study
+Bible Study
+2017-12-27 19:00
+
+NtSaVnoSUI8v
+Prayer & Praise
+Early service
+2017-12-31 08:30
+
+mDG44SaoqL5v
+Sunday School
+Sunday school services are held each Sunday from 9:45 am to 10:45 am.
+2017-12-31 09:45
+
+O5n8bLXsH0NB
+Sunday Morning Services
+Sunday Church Services
+2017-12-31 11:00
+
+3CwkPLFpw9NC
+Bible Study
+New Testament bible study
+2017-12-31 18:00
+
+ASaN6o5A4ppw
+Singing in the New Year
+Mike and Jamel Mills
+2017-12-31 18:00
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:29:53
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:29:58
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:30:03
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:30:09
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:30:14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.980473 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 812.
+Total: 5.720463 ms (FindLiveObjects: 0.037668 ms CreateObjectMapping: 0.035839 ms MarkObjects: 3.990646 ms  DeleteObjects: 1.656308 ms)
+
+http://dlm-movies.com/test/acc/api.php?remote=17-12-02_15:30:19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1658 -> priority: 1 
+  Thread -> id: 1ccc -> priority: 1 
+  Thread -> id: 1670 -> priority: 1 
+  Thread -> id: 1abc -> priority: 1 
