@@ -32,11 +32,11 @@ public class remote : MonoBehaviour {
 			yield return www;
 		if (string.IsNullOrEmpty(www.error)){
 	//		while(!www.isDone){yield return new WaitForSeconds(0.25f);}
-			printLog.Remote(www.url);/////////////////////////
+	//		printLog.Remote(www.url);/////////////////////////
 			string[] line = www.text.Split(new[] {"\r\n", "\r", "\n"}, StringSplitOptions.None);
 
 			foreach (string s in line){
-			printLog.Remote(s);////////////////////////
+	//		printLog.Remote(s);////////////////////////
 				if (!(s == null || s == "")){
 
 					if (s.Contains(",")){
@@ -87,7 +87,7 @@ public class remote : MonoBehaviour {
 			lastUpdate = DateTime.Now;
 			connectFail = 0;
 		yield return new WaitForSeconds(5f);
-		printLog.alertClear();////////////////////////////////
+	//	printLog.alertClear();////////////////////////////////
 		StartCoroutine(check());
 		}else{
 			printLog.Warring("There was an error connecting to remote. " + www.error.ToString());
@@ -97,7 +97,7 @@ public class remote : MonoBehaviour {
 				printLog.Warring("Now in offline mode.");
 			}else{
 				yield return new WaitForSeconds(7f);
-				printLog.alertClear();////////////////////////////////
+		//		printLog.alertClear();////////////////////////////////
 				StartCoroutine(check());
 			}
 		}

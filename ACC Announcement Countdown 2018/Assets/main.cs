@@ -7,8 +7,6 @@ using System;
 
 public class main : MonoBehaviour {
 
-	
-
 	private bool bottomToggle;
 	public Canvas menu;
 	public Image endlessClockBackground;
@@ -20,6 +18,8 @@ public class main : MonoBehaviour {
 	public calender _calender;
 
 	public Sprite defaultBackground;
+    public MovieTexture defaultSlide;
+    public MovieTexture defaultBackgroundVideo;
 
 	public TextMeshProUGUI buildingFundTX, cmfTX, cwfTX, countdownAg, countdownNum, welcomeTX, calTitleTX;
 	public Slider buildingFundSlider;
@@ -29,9 +29,10 @@ public class main : MonoBehaviour {
 	private List<upcomingEvent> calender = new List<upcomingEvent>();
 	//private MovieTexture endVideo;
 	private FileInfo [] videos, slide, countdownBackgrounds, endVideo;
-	private FileInfo clockBackground, buildingBackground, cmfBackground;
+    private FileInfo clockBackground, buildingBackground, cmfBackground;
 
 	public string videoURL = "";
+    public string streamingPath;
 
 	private DateTime startTime, videoStartTime;
 	public string startTimeString;//2017-11-17 22:30:00
@@ -56,18 +57,22 @@ public class main : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+        streamingPath = Application.streamingAssetsPath;
+        updater = GameObject.Find("updateFromWeb").GetComponent<updateFromWeb>();
+        printAlert = updater.GetComponent<alert>();
 
-		videoURL = PlayerPrefs.GetString("videoPath");
-		showClockEveryXSecounds = PlayerPrefs.GetInt("showClock");
-		endVideoOffsetInSecounds = PlayerPrefs.GetInt("videoOffset");
-		if (PlayerPrefs.GetInt("showCWF") == 1){showCWFCMF = true;}else{showCWFCMF = false;}
+            videoURL = PlayerPrefs.GetString("videoPath");
+            showClockEveryXSecounds = PlayerPrefs.GetInt("showClock");
+            endVideoOffsetInSecounds = PlayerPrefs.GetInt("videoOffset");
+
+        if (PlayerPrefs.GetInt("showCWF") == 1){showCWFCMF = true;}else{showCWFCMF = false;}
 		if (PlayerPrefs.GetInt("showBuildingFund") == 1){showBuildingFund = true;}else{showBuildingFund = false;}
 		if (PlayerPrefs.GetInt("showCalender") == 1){showCal = true;}else{showCal = false;}
 		if (PlayerPrefs.GetInt("ignoreEnd")==1){ignoreEndTimer = true;}else{ignoreEndTimer = false;}
 		endActionString = PlayerPrefs.GetString("endAction");
 		countdownAdjective = PlayerPrefs.GetString("countdownNoun");
 
-		welcomeTX.text = PlayerPrefs.GetString("nameFull");
+        welcomeTX.text = PlayerPrefs.GetString("nameFull");
 		calTitleTX.text = "This Week @ " + PlayerPrefs.GetString("nameShort");
 
 		Screen.SetResolution(1920, 1080, true);
@@ -75,15 +80,16 @@ public class main : MonoBehaviour {
 		startTimeString = PlayerPrefs.GetString("startTime");
 		SetNewStartTime(startTimeString);
 		currentStep = steps.slides;
-		updater = GameObject.Find("updateFromWeb").GetComponent<updateFromWeb>();
-		printAlert = updater.GetComponent<alert>();
-		LoadEvents(false);
-		LoadOtherOnlineData(false);
-		LoadVideoInfo();
 
-		StartCoroutine(loadBackground());
+        LoadEvents(false);
 
-		StartCoroutine(waitF());
+        LoadOtherOnlineData(false);
+        LoadVideoInfo();
+
+
+        StartCoroutine(loadBackground()); 
+
+StartCoroutine(waitF());
 
 		if (startTime < DateTime.Now){printAlert.Error("Start time has already pasted.  End action starting...");}
 
@@ -105,15 +111,17 @@ public class main : MonoBehaviour {
 	public void SetIgnoreEndTimer(bool b){ignoreEndTimer = b;}
 
 	void logic(){
-
+        Debug.Log("logic");
 		int countdown = CountdownCalculator();
+        Debug.Log(countdown);
 		//if (!ignoreEndTimer && videoStartTime < DateTime.Now){currentStep = steps.end;step=0;}
 
 		if(videoStartTime < DateTime.Now && !ignoreEndTimer){
 			ignoreEndTimer = true;
 			StartEnd();
-		}else if (clockTimer > 0){
-			PlayVideo(clockBackground, "hide", false);
+		}else if (clockTimer < 0){
+			PlayVideo(clockBackground, "clock", false);
+            clockTimer = showClockEveryXSecounds;
 		}else if (countdown > 0){
 			countdownNum.text = countdown.ToString();
 			PlayVideo(countdownBackgrounds[UnityEngine.Random.Range(0, countdownBackgrounds.Length)], "countdown", false);
@@ -152,7 +160,7 @@ public class main : MonoBehaviour {
 				}
 			}else if (step == 1){
 				if (showCWFCMF){
-					PlayVideo(cmfBackground, "cwf", false);
+                    PlayVideo(cmfBackground, "cwf", false);
 					step++;
 				}else{
 					step++;
@@ -241,13 +249,47 @@ public class main : MonoBehaviour {
 
 	public void LoadVideoInfo(){
 		slide = new DirectoryInfo (System.IO.Path.Combine(videoURL, "Slides")).GetFiles("*.ogv*");
-		videos = new DirectoryInfo (System.IO.Path.Combine(videoURL, "Videos")).GetFiles("*.ogv*");
+        if (slide.Length == 0)
+        {
+            printAlert.Warring("No slide videos could be found at " + System.IO.Path.Combine(videoURL, "Slide"));
+            countdownBackgrounds = new DirectoryInfo(Application.streamingAssetsPath).GetFiles("defaultSlide.ogv");
+        }
+        videos = new DirectoryInfo (System.IO.Path.Combine(videoURL, "Videos")).GetFiles("*.ogv*");
 		countdownBackgrounds = new DirectoryInfo (System.IO.Path.Combine(System.IO.Path.Combine(videoURL, "Backgrounds"), "countDown")).GetFiles("*.ogv*");
 		endVideo = new DirectoryInfo (System.IO.Path.Combine(videoURL, "VideosEnd")).GetFiles("*.ogv*");
 		cmfBackground = new FileInfo (System.IO.Path.Combine(System.IO.Path.Combine(videoURL,"Backgrounds"), "cmf_cwf.ogv"));
+        if (!cmfBackground.Exists) {
+            cmfBackground = new FileInfo(System.IO.Path.Combine(streamingPath, "defaultVideoBackground.ogv") );
+            printAlert.Warring("No CWF/CMF background found at " + System.IO.Path.Combine(System.IO.Path.Combine(videoURL, "Backgrounds"), "cmf_cwf.ogv") + ".");
+        }
 		//buildingBackground = new FileInfo (System.IO.Path.Combine(System.IO.Path.Combine(videoPath,"Backgrounds"), "buildingFund_70.ogv"));
 		clockBackground = new FileInfo (System.IO.Path.Combine(System.IO.Path.Combine(videoURL,"Backgrounds"), "clockBackground.ogv"));
-	}
+        if (!clockBackground.Exists)
+        {
+            clockBackground = new FileInfo(System.IO.Path.Combine(streamingPath, "defaultVideoBackground.ogv"));
+            printAlert.Warring("No Clock Background background found at " + System.IO.Path.Combine(System.IO.Path.Combine(videoURL, "Backgrounds"), "clockBackground.ogv") + ".");
+        }
+
+        if (countdownBackgrounds.Length == 0)
+        {
+            printAlert.Warring("No background videos could be found at " + System.IO.Path.Combine(System.IO.Path.Combine(videoURL, "Backgrounds"), "countDown"));
+            countdownBackgrounds = new DirectoryInfo(Application.streamingAssetsPath).GetFiles("defaultVideoBackground.ogv");
+        }
+        if (slide.Length == 0) { printAlert.Error("No slide videos could be found at "+ System.IO.Path.Combine(videoURL, "Slides"));
+            slide = new DirectoryInfo(Application.streamingAssetsPath).GetFiles("defaultSlide.ogv");
+        }
+        if (videos.Length == 0) { printAlert.Warring("No videos could be found at " + System.IO.Path.Combine(videoURL, "Videos")); }
+        if(endVideo.Length == 0) { printAlert.Error("No ending videos could be found at " + System.IO.Path.Combine(videoURL, "endVideos"));
+            endVideo = new DirectoryInfo(Application.streamingAssetsPath).GetFiles("defaultSlide.ogv");
+        }
+        /*if (clockBackground.Length == 0)
+        {
+            printAlert.Warring("No clock background could be found at " + System.IO.Path.Combine(videoURL, "clockBackground.ogv"));
+            clockBackground = new FileInfo(System.IO.Path.Combine(Application.streamingAssetsPath, "defaultSlide.ogv"));
+        }*/
+
+
+    }
 
 	public void LoadOtherOnlineData(bool updateFromWeb){
 		if (updateFromWeb){

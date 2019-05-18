@@ -130,12 +130,18 @@ public class menu : MonoBehaviour {
 		}else if (DateTime.Now > new DateTime(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day, 11, 00, 00)){
 			hour = 18;
 			minute = 0;
-		}else if (DateTime.Now > new DateTime(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day, 9, 45, 00)){
+		}else if (DateTime.Now > new DateTime(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day, 10, 30, 00)){
 			hour = 11;
 			minute = 0;
-		}else if(DateTime.Now > new DateTime(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day, 8, 30, 00)){
+		}
+        else if (DateTime.Now > new DateTime(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day, 9, 30, 00))
+        {
+            hour = 10;
+            minute = 30;
+        }
+        else if(DateTime.Now > new DateTime(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day, 8, 30, 00)){
 			hour = 9;
-			minute = 45;
+			minute = 30;
 		}else {
 			hour = 8;
 			minute = 30;
